@@ -46,9 +46,13 @@ Seasoned Software Developer with 8 years of experience delivering robust, scalab
     </tr>
     <tr>
       <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=node.js" width="45" height="45" alt="Node.js" />
+          <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
             <br>Node.js
           </td>
+      <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
@@ -56,13 +60,10 @@ Seasoned Software Developer with 8 years of experience delivering robust, scalab
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
           <br>Python
+        </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
             <br>C#
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-            <br>Solidity
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="php" />
@@ -77,8 +78,8 @@ Seasoned Software Developer with 8 years of experience delivering robust, scalab
           <br>Laravel
         </td>
         <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
-          <br>WordPress
+          <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="Postgres" />
+          <br>PostgreSQL
         </td>
     </tr>
 </table>
