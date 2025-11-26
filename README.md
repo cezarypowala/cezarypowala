@@ -23,6 +23,10 @@ Seasoned Software Developer with 8 years of experience delivering robust, scalab
         <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
         <br>Next.js
       </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
+        <br>TailwindCSS
+      </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
         <br>Vue
@@ -41,6 +45,10 @@ Seasoned Software Developer with 8 years of experience delivering robust, scalab
       </td>
     </tr>
     <tr>
+      <td align="center" width="90">
+          <img src="https://skillicons.dev/icons?i=node.js" width="45" height="45" alt="Node.js" />
+            <br>Node.js
+          </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
